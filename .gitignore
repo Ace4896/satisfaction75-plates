@@ -1,0 +1,4 @@
+## LibreCAD
+# Files beginning in # and ending in ~
+\#*.*
+*.*~
