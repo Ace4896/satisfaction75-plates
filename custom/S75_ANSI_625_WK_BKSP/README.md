@@ -8,3 +8,7 @@
 - No Split Backspace
 - No Stepped Caps Lock
 - Supports Plate Mounted Stabilizers
+
+## Rendered 3D Model
+
+![Rendered Plate (Aluminium)](./S75_ANSI_625_WK_BKSP_Rendered.png)
