@@ -4,15 +4,12 @@
 
 This repository contains custom CAD files for the [Satisfaction75 R1/R2](https://cannonkeys.com/collections/satisfaction-75)'s keyboard plate. They are derived from the [official plate files](https://geekhack.org/index.php?topic=100419.msg2769155#msg2769155) provided by CannonKeys.
 
-## `S75_ANSI_625_WK_BKSP`
+## [`S75_ANSI_625_WK_BKSP`](./custom/S75_ANSI_625_WK_BKSP/)
 
 ![ANSI, 6.25u Spacerbar, WinKey, No Split Backspace](./custom/S75_ANSI_625_WK_BKSP/S75_ANSI_625_WK_BKSP.svg)
 
-[**Link to Plate Files**](./custom/S75_ANSI_625_WK_BKSP/)
-
 - ANSI Layout
-- 6.25u Spacebar
-- Universal Bottom Row
+- 6.25u Spacebar w/ Universal Bottom Row
 - No Split Backspace
 - No Stepped Caps Lock
 - Supports Plate Mounted Stabilizers
