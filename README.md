@@ -6,7 +6,7 @@ This repository contains custom CAD files for the [Satisfaction75 R1/R2](https:/
 
 ## [`S75_ANSI_625_WK_BKSP`](./custom/S75_ANSI_625_WK_BKSP/)
 
-![ANSI, 6.25u Spacerbar, WinKey, No Split Backspace](./custom/S75_ANSI_625_WK_BKSP/S75_ANSI_625_WK_BKSP.svg)
+![ANSI, 6.25u Spacebar, WinKey, No Split Backspace](./custom/S75_ANSI_625_WK_BKSP/S75_ANSI_625_WK_BKSP.svg)
 
 - ANSI Layout
 - 6.25u Spacebar w/ Universal Bottom Row
